@@ -1,0 +1,10 @@
+class Box {
+	public static void main(){
+	int i=10;
+	Integer a ;
+	a=i;
+	Systm.out.println("Integer"+a);
+	}
+	
+	
+}

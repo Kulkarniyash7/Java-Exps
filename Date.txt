@@ -1,0 +1,11 @@
+class Date 
+{
+	public static void main (String[]args){
+	System.out.println("Give Me a Date ");
+	int f,k=date,m=month,d,c,year;
+	int date = Integer.parseInt(arg[0]);
+	int month = Integer.parseInt(arg[1]);
+	int year = Integer.parseInt(arg[2]);
+	System.out.println("date="+k "month="+m "year="+year);
+	}
+}
