@@ -11,7 +11,7 @@ class SavingsAccount{
 		double bal = AccBal+intrest;
 		intrest=AccBal*((annualIntrestRate/12)/100);
 		System.out.println("The monthly intrest is :"+intrest);
-		System.out.println("Balanca after adding monthly intrest is "+bal);
+		System.out.println("Balancia after adding monthly intrest is "+bal);
 
 		
 				
